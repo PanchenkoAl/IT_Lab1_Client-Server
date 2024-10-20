@@ -1,0 +1,8 @@
+﻿  IT_Client_Lab1.cpp
+C:\Users\dwarf\source\repos\IT_Client_Lab1\IT_Client_Lab1\IT_Client_Lab1.cpp(70,106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  2 of 113 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IT_Client_Lab1.vcxproj -> C:\Users\dwarf\source\repos\IT_Client_Lab1\x64\Release\IT_Client_Lab1.exe
